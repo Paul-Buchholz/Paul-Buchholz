@@ -102,7 +102,7 @@ With a background in **business engineering** and a strong focus on **data scien
 
 ## 🌐 Connect  
 
-- [**LinkedIn**](https://www.linkedin.com/in/paul-buchholz-2948b21b9/)  
-- [**Portfolio**](https://paulbuchholz.framer.ai)  
+- [**LinkedIn**](https://www.linkedin.com/in/paul-buchholz-data/)  
+- [**Personal Website**](https://paulbuchholz.framer.ai/)  
 
 **Always learning. Always building. Always optimizing.**
