@@ -83,12 +83,12 @@ With a background in **business engineering** and a strong focus on **data scien
 ---
 
 ## 🧰 Tech Stack  
-
 **Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Prophet, Plotly, Matplotlib  
-**Tools:** Jupyter, Streamlit, Git, MLflow, Looker Studio  
-**Cloud & Big Data:** AWS, Google Cloud, Databricks  
-**Web & Analytics:** GA4, GTM, Framer  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Statsmodels, Prophet, Plotly...  
+**Tools & Environments:** Jupyter Notebook, Anaconda, Streamlit, Git, Visual Studio Code  
+**Data & BI Tools:** Looker Studio, Google Sheets, Excel, BigQuery  
+**Marketing & Web Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM), Hotjar  
+**Website Development:** Framer   
 
 ---
 
