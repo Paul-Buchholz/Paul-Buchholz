@@ -1,24 +1,108 @@
-# 👋 Hey there, I'm Paul!  
+# 👋 Hi, I'm Paul Buchholz  
 
-**Aspiring Freelance Data Scientist | E-commerce & Digital Marketing**  
-Former business engineer turned data enthusiast, currently on a **data science training journey** to master the tools and techniques that drive business growth. 
-Passionate about leveraging data to make smarter decisions and create **impactful insights for e-commerce and digital marketing**.  
+**Data Scientist & Business Consultant – E-commerce & Marketing
+Professor Python for Digital Marketing – SKEMA Business School**  
 
-### What I'm Learning & Building  
-- **Machine Learning & AI** – Developing predictive models for e-commerce & marketing analytics.  
-- **Data Analysis & Visualization** – Transforming raw data into business insights.  
-- **A/B Testing & Customer Segmentation** – Optimizing strategies through data-driven decisions.  
+I help brands and marketing teams **turn data into growth** — by making it accessible, actionable, and valuable.  
 
-### Tech Stack (So Far!)  
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow  
-- **Tools:** Git, Jupyter, Streamlit, MLflow  
-- **Cloud & Big Data:** AWS, Google Cloud, Databricks  
+With a background in **business engineering** and a strong focus on **data science for marketing**, I bridge the gap between analytics, strategy, and business impact.  
 
-### My Data Science Journey  
-With a background in business engineering, I discovered the **power of data in decision-making**. Now, I'm actively learning and applying **data science, machine learning, and analytics** to transition into a freelance role, helping businesses in e-commerce & digital marketing grow through data-driven solutions.  
+---
 
-### Let's Connect!  
-- [LinkedIn](https://www.linkedin.com/in/paul-buchholz-2948b21b9/)  
+## 🚀 What I Do  
 
-**Always learning, always building.** Excited to share my progress and projects—let's connect! 
+### 🧠 Data Science for Business & Marketing  
+> *Predict. Optimize. Grow.*  
+
+- **Customer Segmentation** – Built clustering models (K-Means + PCA) on transactional data to identify high-value segments and improve campaign ROI.  
+  *Tools: Python, Scikit-learn, Pandas*  
+
+- **Churn Prediction** – Developed classification models (Random Forest, XGBoost) to anticipate customer churn and boost retention strategies.  
+  *Tools: Python, Pandas, XGBoost, Scikit-learn*  
+
+- **Sales Forecasting** – Applied time-series models (ARIMA, Prophet) to predict revenue trends and optimize inventory planning.  
+  *Tools: Python, Pandas, Prophet, Statsmodels*  
+
+---
+
+### 📊 Data Analysis & Business Intelligence  
+> *See. Understand. Act.*  
+
+- **Looker Studio Dashboard** – Built BI dashboards combining CRM, Ads, and Sales data to highlight key KPIs (CPA, ROAS, Conversion Rate).  
+  *Tools: Looker Studio, Google Sheets, BigQuery*  
+
+- **Python + Pandas Reporting** – Automated weekly performance reports integrating data cleaning, visualization, and PDF export.  
+  *Tools: Python, Pandas, Plotly, Matplotlib*  
+
+---
+
+### 🌐 Web Data & Performance Tracking  
+> *Track. Measure. Perform.*  
+
+- **Site Creation with Framer** – Designed and published a marketing website, integrating GA4 & GTM for event and conversion tracking.  
+  *Tools: Framer, GA4, Google Tag Manager*  
+
+- **Advanced Tracking Setup** – Defined tagging plans, configured GTM triggers, and validated GA4 data accuracy across platforms.  
+  *Tools: Looker Studio, Google Sheets, BigQuery*  
+
+---
+
+### 💡 Marketing & E-commerce Optimization  
+> *From traffic to conversion.*  
+
+- **Conversion Funnel Analysis** – Audited e-commerce funnel performance to identify UX friction and prioritize A/B testing.  
+  *Tools: GA4, Looker Studio, Excel, Python*  
+
+- **Product Page Optimization** – Analyzed engagement vs. conversion behavior to improve layout clarity and conversion rates.  
+  *Tools: Hotjar, GA4, Framer, Excel*  
+
+---
+
+### 🧭 Data-Driven Strategy & Consulting  
+> *Turn insights into growth.*  
+
+- **Data Maturity Diagnostic** – Audited companies’ analytics processes, governance, and tool usage to identify key improvement areas.  
+  *Tools: Notion, Excel, Interviews, Audit Framework*  
+
+- **Data Roadmap & Governance** – Designed end-to-end roadmaps for KPI frameworks and analytics integration across teams.  
+  *Tools: Notion, Google Sheets, Looker Studio, GA4*  
+
+---
+
+### 🎓 Training & Workshops  
+> *Learn. Apply. Lead.*  
+
+- **Academic Teaching – SKEMA Business School**  
+  Designed two complementary Python for Digital Marketing courses (30h + 24h), covering data analysis, visualization, and machine learning with real datasets.  
+  *Tools: Anaconda, Jupyter, Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn*  
+
+- **Corporate Workshops**  
+  Delivered training for marketing teams on KPIs, dashboards, and data storytelling — tailored to each company’s data maturity.  
+  *Tools: Anaconda, Jupyter, Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn*  
+
+---
+
+## 🧰 Tech Stack  
+
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Prophet, Plotly, Matplotlib  
+**Tools:** Jupyter, Streamlit, Git, MLflow, Looker Studio  
+**Cloud & Big Data:** AWS, Google Cloud, Databricks  
+**Web & Analytics:** GA4, GTM, Framer  
+
+---
+
+## 🔬 Currently Building  
+
+- 🗣️ **Customer Review Analyzer** – NLP tool for automated sentiment analysis of e-commerce reviews.  
+- 📊 **Marketing Dashboard Automation** – Streamlit-based app for real-time performance monitoring.  
+- 🧠 **Churn & Retention Predictive Suite** – Custom ML pipeline for subscription-based businesses.  
+
+---
+
+## 🌐 Connect  
+
+- [**LinkedIn**](https://www.linkedin.com/in/paul-buchholz-2948b21b9/)  
+- [**Portfolio**](https://paulbuchholz.framer.ai)  
+
+**Always learning. Always building. Always optimizing.**
